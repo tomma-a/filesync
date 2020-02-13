@@ -8,7 +8,7 @@ srcDir        = "src"
 bin           = @["filesync_server","filesync_client"]
 
 
-
+# test
 # Dependencies
 
 requires "nim >= 0.20.2"
